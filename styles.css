@@ -1,0 +1,42 @@
+.vertical-menu {
+    width: 400px; 
+    margin:1 auto;
+  }
+  
+  .vertical-menu a {
+    background-color: rgb(144, 229, 238); 
+    color: black; 
+    display: block; 
+    padding: 12px; 
+    text-decoration: none; 
+  }
+  
+  .vertical-menu a:hover {
+    background-color: rgb(204, 204, 204); 
+  }
+  
+  .vertical-menu a.active {
+    background-color: #4cafa5; 
+    color: white;
+  }
+
+#input-form {
+  margin:0 auto;
+}
+
+.home-button {
+  width: 80px; 
+  background-color: rgb(147, 143, 188);
+  color: white;
+  text-decoration: none; 
+  padding: 12px;
+}
+
+.container{
+  width: 90%; 
+}
+
+#validation_requirements {
+  font-size: 9px;
+  color: brown;
+}
