@@ -14,7 +14,6 @@ var student_date_of_birth = document.getElementById('student_date_of_birth');
     
     todayMinus18years = yyyy-18 +'-'+mm+'-'+dd;    
 
-
 student_date_of_birth.setAttribute("value", todayMinus18years);
 
 student_date_of_birth.addEventListener('change', function() {
